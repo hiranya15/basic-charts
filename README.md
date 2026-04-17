@@ -1,8 +1,4 @@
-# 📊 Experiment 16 – Basic Charts and Visual Encoding using Python
-# Hiranya
-# 25070123054
-# Entc A3
-## 
+# Experiment 16 – Basic Charts and Visual Encoding using Python
 
 # 1. Aim
 To study and apply fundamental data visualization techniques using Python libraries such as Matplotlib and Seaborn in order to analyze patterns, trends, distributions, and relationships within datasets.
